@@ -1,0 +1,11 @@
+TO PRACTICE DYNAMIC PROGRAMMING THAT WAS AVOIDED FOR LAB
+1. knapsack
+2. pascal's triangle
+3. perfect squares
+4. coin change problem
+5. least increasing subsequence
+6. longest common subsequence
+7. unique path
+8. matrix chain multiplication
+9. sum of subsets
+10. optimal binary search tree
